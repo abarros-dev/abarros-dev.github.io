@@ -1,3 +1,10 @@
+/* RESET RULES */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Rules over Structure elements */
 html, body {
     width: 100%;
 }
